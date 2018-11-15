@@ -1,0 +1,12 @@
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\bin\Debug\ProjectShop.exe.config
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\bin\Debug\ProjectShop.exe
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\bin\Debug\ProjectShop.pdb
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.csprojResolveAssemblyReference.cache
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.Form1.resources
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.Properties.Resources.resources
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.csproj.GenerateResource.Cache
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.exe
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.pdb
+c:\users\vanna\documents\visual studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.UserForm.resources
+C:\Users\vanna\Documents\Visual Studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.FormThemMoiNguoiDung.resources
+C:\Users\vanna\Documents\Visual Studio 2012\Projects\ProjectShop\ProjectShop\obj\Debug\ProjectShop.frmSuaThongTin.resources
